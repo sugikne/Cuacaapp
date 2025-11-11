@@ -1,0 +1,261 @@
+{
+   "checksum": "f08b300b8721a2d4705bd2566beb68ef",
+   "checksum_sha256": "3e32fd11ec56774a4f4157504cbb1e07fc5f0d29d156c8976bc797b15437cd84",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342155135248601",
+            "date_last_used": "0",
+            "guid": "6bd9abd9-f497-43f0-a694-a497344e482d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(16) TITIK KUMPUL - RAMADHAN PADA FULL GAK??? - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=e-LFFMemZTA&t=21",
+            "visit_count": 0
+         }, {
+            "date_added": "13354860729306128",
+            "date_last_used": "0",
+            "guid": "36cbf0ae-5d82-4f3a-ab13-3272248ffd80",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Penyiapan Server Awal dengan Ubuntu 20.04 | DigitalOcean",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04-id",
+            "visit_count": 0
+         }, {
+            "date_added": "13354861079250008",
+            "date_last_used": "0",
+            "guid": "5cbb0283-58f5-49ac-a09a-aa17e032a959",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cara Hack Rekaman CCTV Orang Lain dan Risikonya | JalanTikus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jalantikus.com/tips/cara-hack-cctv/",
+            "visit_count": 0
+         }, {
+            "date_added": "13355895964027147",
+            "date_last_used": "13388377648264433",
+            "guid": "6a532e33-4a56-478b-b7d7-db2b52f96f9a",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "First Come First Serve – Penjadwalan CPU (Non-Preemptive) - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/first-come-first-serve-cpu-scheduling-non-preemptive/?ref=header_search",
+            "visit_count": 2
+         }, {
+            "date_added": "13359102849528425",
+            "date_last_used": "0",
+            "guid": "effdf53f-7530-4b43-86bd-aa0c55f11317",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "iut pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?pglt=171&q=remove+background&cvid=ad561a916a95443ea8744093a68808e1&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDQzMTlqMGoxqAIAsAIA&FORM=ANNTA1&PC=ASTS",
+            "visit_count": 0
+         }, {
+            "date_added": "13361814545834121",
+            "date_last_used": "0",
+            "guid": "31287966-ea30-446a-b8c1-7a7c6f9cae8b",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dribbble.com/shots/23184534-Mobile-App-for-the-hotel",
+            "visit_count": 0
+         }, {
+            "date_added": "13373277578982247",
+            "date_last_used": "13373432445699663",
+            "guid": "51c682ee-7873-4eca-8ff6-253c9e4254ea",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Desain tanpa judul - Presentasi - Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGTbxJ8Iy4/1ijVm5kVYp5y7IqcKhSPfQ/edit",
+            "visit_count": 2
+         }, {
+            "date_added": "13373904218670890",
+            "date_last_used": "0",
+            "guid": "aaa0ec05-5642-4cc0-81ee-60020354827c",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SINGER - Thumbnail YouTube - Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGUHNA8KaA/r5zE8SA6nJSESStOsOleww/edit",
+            "visit_count": 1
+         }, {
+            "date_added": "13374683562038138",
+            "date_last_used": "0",
+            "guid": "7a909551-229e-4ab9-9d0d-0218222c45ac",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Untitled – Figma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/design/WfF9kcXDlT1Cz7kPBm5DS0/Untitled?node-id=4-18344&node-type=frame&t=N2IGuaETt6i1HDex-0",
+            "visit_count": 1
+         }, {
+            "date_added": "13384440994891807",
+            "date_last_used": "0",
+            "guid": "ad25179b-d848-4b55-b4fc-8a7addd2274e",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LifeFit - Healthy Diet Planner App UI Kit — Figma Resources on UI8",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ui8.net/ydntkwia/products/lifefit---healthy-diet-calory-counter-app-ui-kit",
+            "visit_count": 1
+         }, {
+            "date_added": "13386762742504737",
+            "date_last_used": "0",
+            "guid": "fa251edf-6ccc-43cc-b4e8-e031c72f565e",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bali merupakan salah satu daerah di Indonesia yang memiliki kekayaan sejarah dan budaya yang luar biasa. Tradisi, seni, dan tempat-tempat suci di Bali tidak hanya menjadi daya tarik wisata, tetapi juga memiliki nilai filosofis yang mendalam bagi masyarakat setempat. Namun, di era globalisasi dan digitalisasi ini, terdapat tantangan besar dalam menjaga kelestarian budaya dan menyebarkan pemahaman yang tepat kepada generasi muda serta wisatawan asing. Salah satu permasalahan utama yang sering terjadi adalah kurangnya pemahaman tentang makna serta kesakralan budaya dan tempat-tempat suci di Bali. Hal ini menyebabkan berbagai kesalahpahaman serta tindakan yang kurang menghormati tradisi setempat. Berdasarkan riset dari berbagai berita dan keluhan masyarakat, terdapat beberapa masalah utama yang perlu diperhatikan: Anak muda dan wisatawan sering kali tidak memahami nilai kesakralan tempat-tempat suci di Bali. Kurangnya edukasi yang menarik dan interaktif mengenai budaya Bali sehingga sulit dipahami oleh generasi muda. Beberapa wisatawan tanpa sadar melakukan tindakan yang dianggap tidak sopan di area sakral karena minimnya informasi yang tersedia. Keterbatasan media edukasi berbasis teknologi yang mampu menjangkau audiens dengan cara yang efektif dan menarik. Menurut UNESCO (2023), edukasi budaya harus dilakukan dengan cara modern dan berbasis teknologi agar tetap relevan dengan generasi saat ini. Pendekatan konvensional seperti penyampaian informasi melalui buku atau pemandu wisata sering kali kurang menarik bagi generasi muda yang lebih terbiasa dengan teknologi digital. Oleh karena itu, diperlukan solusi inovatif yang mampu menyajikan edukasi budaya dengan cara yang lebih visual, interaktif, dan mudah diakses. Menjawab tantangan tersebut, BALILOKA hadir sebagai solusi UI/UX desain aplikasi yang mengemas edukasi budaya secara visual dan interaktif melalui foto, video, serta teknologi berbasis kecerdasan buatan (AI). Aplikasi ini dirancang untuk menjadi ensiklopedia digital budaya Bali, yang tidak hanya memberikan informasi mendalam, tetapi juga mampu meningkatkan kesadaran serta pemahaman masyarakat dan wisatawan tentang nilai-nilai budaya Bali. Dengan BALILOKA, diharapkan dapat terwujud pengalaman belajar yang menyenangkan, mendalam, dan penuh makna bagi setiap pengguna, sehingga kelestarian budaya Bali tetap terjaga di era modern ini. carikan saya materi mengenai ini lagi\\",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.perplexity.ai/search/bali-merupakan-salah-satu-daer-6QQdJrthSyK6nbUoVUB1Vg",
+            "visit_count": 1
+         }, {
+            "date_added": "13394975036065944",
+            "date_last_used": "0",
+            "guid": "55d28d4a-4f1a-4b36-835e-366b977563f7",
+            "id": "20",
+            "name": "Gambar Kamar Hotel 360",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/c/6856859f-ffdc-8009-819f-672a0ce5a952",
+            "visit_count": 1
+         }, {
+            "date_added": "13394987652353561",
+            "date_last_used": "0",
+            "guid": "a93a07d8-136f-41bf-841b-c0ac7bb7a9c0",
+            "id": "21",
+            "name": "The Pack Tee",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://erasedproject.com/products/the-pack-tee",
+            "visit_count": 1
+         }, {
+            "date_added": "13405481805500881",
+            "date_last_used": "0",
+            "guid": "adf234fe-934f-4325-9f4d-cb13674d0497",
+            "id": "22",
+            "name": "Brown and Black Mminimal Business Proposal - A4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAG2X825uxY/oxttPL9fV-mOnytYi9Upgg/edit?ui=eyJBIjp7fX0",
+            "visit_count": 1
+         }, {
+            "date_added": "13407326921158498",
+            "date_last_used": "0",
+            "guid": "69ad90b0-7d3f-4057-94c4-1b009975c045",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13407326921158400",
+            "date_last_used": "0",
+            "guid": "cc482255-ca2e-4ff0-93b0-ac67ff222046",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13407326921158082",
+            "date_last_used": "0",
+            "guid": "8060a7bd-d880-4f0d-a2f5-329a2b9ec26b",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         } ],
+         "date_added": "13407326920991319",
+         "date_last_used": "0",
+         "date_modified": "13407326921158498",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13407326920991319",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13407326920991319",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCGFVA12aAQAAEgAqGDlhUW10Z0VxUi9oR25sTVNueEkwWlE9PUgDoAYHEq4BCBYSqQEKHGl0WnpiZWp4cWhBT1ViQmRhZTdoRElSMWVSMD0SJGFkZjIzNGZlLTkzNGYtNDMyNS05ZjRkLWNiMTM2NzRkMDQ5NxgAIAAoADCKsJOioDM4n7SToqAzQJ+0k6KgM0ocaEcwdk9HdS90a3lrQmdyRHFLZ09SRDZKYzhNPVogIh7/72VJU2hjN2lPbTJsclZKaVVXNWVnTjh4eG16MD1lhrVyk8I+AmAFEq4BCBUSqQEKHFlZYVo5VzQ4akpzZzRXNGhkb2FRdUl4Mjhpbz0SJGE5M2EwN2Q4LTEzNmYtNDFiZi04NDFiLWMwYWM3YmI3YTljMBgAIAAoADDM9ZKW+TI49vaSlvkyQPb2kpb5MkocTk5CTTVJOE13Y2ZtaitTbTNwOTgvcnpFc3h3PVogIh7/3md2MEJtc3F0Y01qMnJHY05uUFBVb255cUZyTT1lOtgS+MI+AmAFEq0BCBESqAEKHGtmeVkxazIzb0lHdjhtZExOYUt4RWpLcWdSST0SJDdhOTA5NTUxLTIyOWUtNGFiOS05ZDBkLTAyMTgyMjJjNDVhYxgAIAAoADCarav1kDM4zeizxK0yQM3os8StMkocbXZwU09PSGxVcGtVMUpxNHlxZy9STG84UnBzPVofIh3+K1lrWlVwSEVXQ2d0V2dGOTB5SDVRWElhMy9RPWXmSVC2wj4CYAUSrQEICxKoAQocTzQySGxPbzJLekZDQmpIRXAyVWIxOVRIdEgwPRIkNWNiYjAyODMtNThmNS00OWFjLWEwOWEtYWExN2UwMzJhOTU5GAAgACgAML+qp9jjMTiUrKfY4zFAlKyn2OMxShxIcVkzVTZtV2hpendMd293bnpicVRGMjZ2d1k9Wh8iHbtVY2VRYS9EQ0JGMm1Ic2NSRGVaYXRvVUtkdEE9ZZBdki/CPgJgBRKtAQgQEqgBChwwbDFCREl0K3ZBaHZVWTRaZ2lkWkY1N0J3dGs9EiRhYWEwZWMwNS01NjQyLTRjYzAtODFlZS02MDAyMDM1NDgyN2MYACAAKAAwge/i3fcyOMCl5NCqMkDApeTQqjJKHE9CMjBoYjVsemxZRGNmQVJKbkR1VjBTSUNHaz1aHyId/TRLTkc5ZG4wVTZvcGE4ZlFKdmhtRDZ5TEJ6QT1l4PM/rcI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGUxMTE2M2VmLWJhZDktNTM5NS05ZjI1LWE4YzM5ZGIwMTY3NRgAIAAoADD2qvi7qjE40q34u6oxQNKt+LuqMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgNEqgBChxvOWhyZGNiSmhrWjkzMnRCYmw1eUtKK0lwUVU9EiRlZmZkZjUzZi03NTMwLTRiNDMtODZiZC1hYTBjNTVmMTEzMTcYACAAKAAwxeuvgY4zOKTC+L7zMUCkwvi+8zFKHERneW0xYTFYZkpPb202RmpKU1U0Uk1GbGh6ND1aHyId7nBhc3BvVlg4dE10YzJaUTRkelJIZTlyVm11Yz1ldoW7tcI+AmAFEq0BCBMSqAEKHDJrSU55SVA1VlRQNXJXY1pZV081eGI2T1NQQT0SJGZhMjUxZWRmLTZjY2MtNDNjYy1iNGU4LWUwMzFjNzJmNTY1ZRgAIAAoADD/u6n1kDM4h62axNoyQIetmsTaMkocRkhDU0RaMmkxTkljcjJDUzhkbUdTbnQ0RmFrPVofIh3/emdGTWtTZytnemVlNkJ6TGV0c0RWMk1XUjVjPWXzfLBNwj4CYAUSrAEICRKnAQocZk1JVFN4cGZnR3FuRGNjWk5VWE5LMjNZVXF3PRIkNmJkOWFiZDktZjQ5Ny00M2YwLWE2OTQtYTQ5NzM0NGU0ODJkGAAgACgAMIj10a20MTi59dGttDFAufXRrbQxShxpaC9pbnZRdlJGcjIySldyRm95MVlMcHQ3em89Wh4iHG41dG4zcmZ3ZnVxdVQ5OFo1ZnNMNTZjcnd1ND1lOPk5M8I+AmAFEq0BCA4SqAEKHHhzWkR6MTJHbHZBZ2JDNWxMZVFZVGtJeHVxND0SJDMxMjg3OTY2LWVhMzAtNDQ2YS1iOGMxLTdhN2M2ZjljYWU4YhgAIAAoADCOuP3L/TE45JT9y/0xQOSU/cv9MUocbldUZWxmTlJtTkRBamprVE9KUjZFMTM1SUJvPVofIh33djdsdWNKanZGbWkrMUpwM1o0ZWJ0UXlnbm1BPWWoWMlRwj4CYAUSrQEIDBKoAQocRmdoeHVDdDJUT003WjFBMGFuMWJ5NkdEeHVJPRIkNmE1MzJlMzMtNGE1Ni00NzhiLWI3ZDctZGIyYjUyZjk2ZjlhGAAgACgAMNaY/oKWMzi6yuPF5zFAusrjxecxShxwOXdEcm1xNXJ6bGR3eEorMTJQQk9Zbm02S2c9Wh8iHd0vNHlsc2ZUYXQzcGhnbitLdUdOMnNrckdOQ1E9ZeoudvrCPgJgBRKtAQgSEqgBChxaL21YN3BYaElGVFRITS9BaGZ6QzBYTlR3bkE9EiRhZDI1MTc5Yi1kODQ4LTRiNTUtYjRmYy04YTdhZGRkMjI3NGUYACAAKAAw+/uN8dEyOMT8jfHRMkDE/I3x0TJKHEthT092SlFhNWpzNXozbm54WUR6MzVxV3VUbz1aHyId/29CK1ZNZzdlRHpndlFRVEFvczNKNmloRWx1ND1lxm/hT8I+AmAFEqwBCAoSpwEKHDFjbjFLdzBONGdhWHp0LytzY0EwcHNHTVBtVT0SJDM2Y2JmMGFlLTVkODItNGYzYS1hYjEzLTMyNzIyNDhmZmQ4MBgAIAAoADCY8ZHY4zE4tfKR2OMxQLXykdjjMUocSGVFOW1QaEszSGN0azkyTStSbzR5b0FWRTFNPVoeIhx2VmwxaER4RUtoWlg5a3oyNzNuNGc4RVZNU289ZSIKExvCPgJgBRKuAQgUEqkBChwzN1l0M3V3cDEwR0JKajI0Kzl0MlNjdWtxdUk9EiQ1NWQyOGQ0YS00ZjFhLTRiMzYtODM1ZS0zNjZiOTc3NTYzZjcYACAAKAAwv++QkPkyOKnxkJD5MkCp8ZCQ+TJKHE8wcnV1YUxZUU5va2FSei9UUlJ4cGlzWTE2MD1aICIe/71VcUxmNVJEb1ZRQmRSOVNhNlQ1aDN2Vi8xcjg9ZTgUJMXCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQyNTYxN2I5ZS02NWNmLTVjYjQtYTg5NS1kYWUyNGIzNjA3ZTAYACAAKAAw8Kr4u6oxOP2s+LuqMUD9rPi7qjFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMDBmMzUyZWQtNmZmZS01NzIzLWJkNWMtZjU4OTdlNjdmOGIyGAAgACgAMPGq+LuqMTiWrfi7qjFAlq34u6oxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEq0BCA8SqAEKHEQ2WTJkTVFtMlluRmdMNHB0bElVYm9xU2lSST0SJDUxYzY4MmVlLTc4NzMtNGVjYS04ZmY2LTI1M2M5ZTQyNTRlYRgAIAAoADCnzIi2nDM48Zf9pagyQPGX/aWoMkocTDdNclcxOUo0QUc5SDNvQVY3VVZqVTFrV0V3PVofIh37M3k5Yk5HTzRHOVRwWWFPVnYxS2lhcGZqVW9vPWXuZ00Dwj4CYAUwADgA",
+   "version": 1
+}
