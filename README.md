@@ -79,6 +79,10 @@ The app is deployed to GitHub Pages. Access it here:
 https://sugikne.github.io/Cuacaapp/
 ```
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-blue?style=flat)](https://sugikne.github.io/Cuacaapp/)
+
+View the main UI source: [lib/main.dart](https://github.com/sugikne/Cuacaapp/blob/main/lib/main.dart)
+
 ## 🔄 GitHub Actions CI/CD
 
 Automated workflows for:

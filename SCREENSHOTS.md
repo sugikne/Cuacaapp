@@ -398,6 +398,34 @@ w700 (Bold):    App title
 ## ✨ Visual Effects Summary
 
 ✅ **Gradient Background**: Creates depth and visual appeal
+
+---
+
+## 👀 Cara Melihat Tampilan `main.dart` (Live Preview)
+
+Untuk memudahkan siapa saja melihat tampilan utama aplikasi (`lib/main.dart`) secara visual di GitHub, ada beberapa cara:
+
+- Lihat versi web langsung (Live demo):
+
+  https://sugikne.github.io/Cuacaapp/
+
+  Kunjungi URL di atas untuk membuka versi web dari aplikasi (deploy otomatis via GitHub Actions). Ini menampilkan UI yang sama seperti `main.dart` pada browser.
+
+- Lihat file sumber `main.dart` langsung di repository:
+
+  https://github.com/sugikne/Cuacaapp/blob/main/lib/main.dart
+
+  Link ini membuka file sumber sehingga siapa pun bisa membaca kode yang menghasilkan tampilan utama.
+
+- Download APK atau lihat artifacts build (jika Anda ingin melihat di perangkat nyata):
+
+  1. Buka tab **Actions** pada repo GitHub
+  2. Pilih workflow terbaru (Flutter Build)
+  3. Di bagian `Artifacts`, download `app-release.apk` untuk menginstall dan mencoba tampilan di perangkat Android
+
+---
+
+Jika Anda ingin saya menambahkan screenshot PNG atau GIF statis langsung ke repo (agar muncul di preview GitHub tanpa membuka Pages), beri tahu—saya bisa membuat folder `assets/screenshots/` dan menambahkan file gambar ke sana.
 ✅ **Blur Overlay**: Improves readability
 ✅ **Glass Morphism**: Modern frosted glass effect
 ✅ **Smooth Transitions**: Loading states
